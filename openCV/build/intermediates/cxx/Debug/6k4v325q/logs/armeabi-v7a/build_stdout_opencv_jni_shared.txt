@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Thuchanh\FaceDetect\openCV\.cxx\Debug\6k4v325q\armeabi-v7a'
+ninja: no work to do.
